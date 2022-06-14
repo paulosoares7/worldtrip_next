@@ -51,7 +51,7 @@ O critérios de avaliação para a criação deste blog são:
 - [x]   **Listar continentes (Carrossel)**
 - [x]   **Páginas contendo informções dos continentes separadamente**
 - [x]   **Utilizar conceitos de SSG**
-- []   **Deixar telas responsivas**
+- [x]   **Deixar telas responsivas**
 
 
 ---
@@ -83,8 +83,7 @@ O layout da aplicação está disponível no Figma:
 
 ---
 
-## 🚀 Como executar o Worldtrip
-
+## 🚀 Como executar
 
 ### Pré-requisitos
 
