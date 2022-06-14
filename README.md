@@ -14,7 +14,7 @@
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/paulosaores7/worldtrip_next/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/paulosaores7/worldtrip_next?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/paulosoares7/worldtrip_next?style=social">
   </a>
   
  
@@ -32,7 +32,6 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
