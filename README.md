@@ -77,9 +77,9 @@ O layout da aplicação está disponível no Figma:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="WorlTrip" title="#WorlTrip" src="/home.png" width="400px">
+  <img alt="WorlTrip" title="#WorlTrip" src="./home.png" width="400px">
 
-  <img alt="WorlTrip" title="#WorlTrip" src="/post.png" width="400px">
+  <img alt="WorlTrip" title="#WorlTrip" src="./post.png" width="400px">
 </p>
 
 ---
