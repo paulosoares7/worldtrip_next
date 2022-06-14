@@ -48,11 +48,11 @@ O Ignite é uma experiência online com muito conteúdo prático, desafios e hac
 
 O critérios de avaliação para a criação deste blog são:
 
-[x]   **Página home**
-[x]   **Listar continentes (Carrossel)**
-[x]   **Páginas contendo informções dos continentes separadamente**
-[x]   **Utilizar conceitos de SSG**
-[]   **Deixar telas responsivas**
+- [x]   **Página home**
+- [x]   **Listar continentes (Carrossel)**
+- [x]   **Páginas contendo informções dos continentes separadamente**
+- [x]   **Utilizar conceitos de SSG**
+- []   **Deixar telas responsivas**
 
 
 ---
@@ -124,6 +124,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Chackra UI](https://chakra-ui.com)**
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
 -   **[Swiper](https://swiperjs.com)**
+-   **[Prismic CMS](https://prismic.io)**
 
 > Veja o arquivo  [package.json](https://github.com/paulosoares7/worldtrip_next/blob/main/package.json)
 
