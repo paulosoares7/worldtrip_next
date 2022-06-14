@@ -28,9 +28,9 @@
 </h4>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-sobre-o-desafio">Sobre</a> •
  <a href="#-layout">Layout</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-como-executar-o-worldTrip">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
@@ -83,7 +83,7 @@ O layout da aplicação está disponível no Figma:
 
 ---
 
-## 🚀 Como executar
+## 🚀 Como executar o Worldtrip
 
 ### Pré-requisitos
 
