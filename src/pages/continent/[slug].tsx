@@ -123,17 +123,6 @@ export const getStaticProps: GetStaticProps = async ({params}) => {
     }
   })
 
-  const continentContent =response.data.continent_content.map((continent)=> {
-    return {
-      descriprion: RichText.asHtml(continent.text),
-      continentName:RichText.asHtml(continent.continent_name),
-      continentBanner:continent.continent_banner_content.url,
-      numberOfcountries:continent.numbers_of_countries,
-      numberOfLanguages: continent. numbers_of_languages,
-      numberOfCities: continent.numbers_of_cities,
-    }
-  })
-  
   const [continent] = response.data.continent_content
   
 
