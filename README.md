@@ -20,7 +20,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="WorlTrip" title="#WorlTrip" src="/bannerReadeMe.png" />
+    <img alt="WorlTrip" title="#WorlTrip" src="./public/bannerReadMe.png" />
 </h1>
 
 <h4 align="center"> 
@@ -69,17 +69,17 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="WorlTrip" title="#WorlTrip" src="/HomeMobile.png" width="200px">
+  <img alt="WorlTrip" title="#WorlTrip" src="./public/home-mobile.png" width="200px">
 
-  <img alt="WorlTrip" title="#WorlTrip" src="/PostMibile.png" width="200px">
+  <img alt="WorlTrip" title="#WorlTrip" src="./public/post-mobile.png" width="200px">
 </p>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="WorlTrip" title="#WorlTrip" src="/Home.png" width="400px">
+  <img alt="WorlTrip" title="#WorlTrip" src="/home.png" width="400px">
 
-  <img alt="WorlTrip" title="#WorlTrip" src="/Post.png" width="400px">
+  <img alt="WorlTrip" title="#WorlTrip" src="/post.png" width="400px">
 </p>
 
 ---
@@ -102,9 +102,6 @@ $ git clone git@github.com:paulosoares7/worldtrip_next.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd worldtrip_next
-
-# Vá para a pasta da aplicação Front End
-$ cd web
 
 # Instale as dependências
 $ npm install
